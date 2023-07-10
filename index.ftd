@@ -11,30 +11,28 @@ align-content:center
 -- ftd.row:
 width.fixed.px: 550
 height.fixed.px: 550
-background.solid: grey
+background.solid: pink
 border-width.px: 3
 padding.px: 20
 border-radius.px: 30
 spacing.fixed.px: 50
 
 -- ftd.image:
-src:https://i.pinimg.com/236x/39/f1/9f/39f19f35e73d72e64ca0defd9d43d46f.jpg
-height.fixed.px: 450
-width.fixed.px: 450
+src:https://i.pinimg.com/236x/34/66/2f/34662f60546c8aca67de5523a5d45f66.jpg
+height.fixed.px: 250
+width.fixed.px: 200
 
 
 -- ftd.column:
 
--- ftd.text: one kind
+-- ftd.text: Beauty of eyes
 role: $inherited.types.heading-medium
 
 -- ftd.text: 
 role: $inherited.types.copy-regular
 
-Writing my own story amongst the chaos silencing the voices of self doubt,Guilt and regret.
+I wish my eyes could take pictures of everthing,Capture every beauty I see,Every sorrow I feel ,It feels good to get your perception captured with no need of words to explain it.
 
 -- end: ftd.column
 
 -- end: ftd.row
-
--- end: card
